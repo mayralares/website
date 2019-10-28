@@ -1,0 +1,189 @@
+h1 {
+    font-family: 'Bungee Shade';
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Neucha';
+    font-size: 35px;
+}
+
+h6 {
+    font-family: 'Neucha';
+    font-size: 25px;
+}
+
+body {
+  text-align: center;
+  background-color: pink;
+  background-image: url("/images/polaroidsc.png");
+  background-position: top;
+}
+
+#one {
+  background-color: white;
+}
+
+#onefive{
+  background-color: white;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#two {
+  background-color: white;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+#three {
+  background-color: white;
+  float:left;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#four {
+  background-color: white;
+  float: left;
+  padding: 10px;
+  margin-left: 60px;
+  margin-right: 50px;
+}
+
+#five {
+  background-color: white;
+  float: left;
+  margin-left: 50px;
+  padding: 10px;
+}
+
+#six {
+  background-color: white;
+  float: left;
+  padding: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+#seven {
+  background-color: white;
+  float: left;
+  padding:10px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#eight {
+background-color: white;
+float: right;
+padding: 10px;
+margin-right: 50px;
+margin-top: 50px;
+}
+
+#nine {
+  background-color: white;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 1250px;
+}
+
+#ten {
+  background-color: white;
+  float: left;
+  padding: 15px;
+  margin-left: 250px;
+}
+
+#eleven {
+  background-color: white;
+  padding: 15px;
+  float: right;
+  margin-right: 280px;
+}
+
+#twelve {
+  padding: 15px;
+  background-color: white;
+  float: left;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+
+#thirteen {
+  background-color: white;
+  padding: 15px;
+  float: left;
+  margin-top: 140px;
+  margin-left: 25px;
+}
+
+#fourteen {
+  background-color: white;
+  padding: 15px;
+  float: right;
+  margin-right: 30px;
+  margin-top: 50px;
+}
+
+#fifteen {
+  background-color: white;
+  padding: 20px;
+  float: left;
+  margin-top: 50px;
+  margin-right: 140px;
+  margin-left: 240px;
+}
+
+#sixteen {
+  background-color: white;
+  padding: 20px;
+  float: right;
+  margin-top: 32px;
+  margin-right: 250px;
+}
+
+#seventeen {
+  background-color: white;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 1600px;
+}
+
+#eighteen {
+  background-color: #E8D1D4;
+}
+
+#nineteen {
+  background-color: #E8D1D4;
+}
+
+#twenty {
+  background-color: #E8D1D4;
+}
+
+#twentyone {
+  background-color: white;
+
+}
+
+a {
+  color:#9C005B;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#62005B;
+}
+
+a:active {
+  color: orange;
+}
+
+a:hover {
+  color:orange;
+}
